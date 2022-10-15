@@ -1,0 +1,14 @@
+.logo{
+    width: 100px;
+}
+.carousel{
+    height: 400px;
+    background-color: #f5ebe0;
+    padding: 0px 50px;
+}
+.carousel-item img{
+    width: 400px!important;
+}
+.container{
+    margin-bottom: 100px;
+}
